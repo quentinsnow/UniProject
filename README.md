@@ -2,4 +2,4 @@
 
 Acknoledgements:
 
-This work is based on Tetris, assigment of Object-Oriented Programming (X3I0020) course of Faculty of Sciences and Technology of Nantes taught by Prof.Laurent.Granvilliers
+This work is based on Tetris, assigment of Object-Oriented Programming (X3I0020) course of Faculty of Sciences and Technology of Nantes taught by Prof.Laurent Granvilliers
