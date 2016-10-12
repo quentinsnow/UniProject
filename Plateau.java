@@ -29,7 +29,7 @@ public class Plateau {
 	
 	public boolean accepter(Piece p){
 		boolean accepte = false;
-		if (){
+		{
 			
 		}
 		return accepte;
