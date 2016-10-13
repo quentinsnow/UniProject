@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class Fabrique {
 	
 	private ArrayList<Point> listePoint;
-	
+	//Test
 	public void creerCarre (){
 		Point posinit = new Point();
 		listePoint.add(posinit);	//Ajout du point posinit dans l'ArrayList listePoint;
