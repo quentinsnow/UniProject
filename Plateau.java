@@ -1,9 +1,9 @@
 
 public class Plateau {
 	
-	final int Largeur = 10;
-	final int Hauteur = 20;
-		int[][] Table = 
+	private final int Largeur = 10;
+	private final int Hauteur = 20;
+	private int[][] Table = 
 		{
 			{0,0,0,0,0,0,0,0,0,0},
 			{0,0,0,0,0,0,0,0,0,0},
@@ -26,11 +26,10 @@ public class Plateau {
 			{0,0,0,0,0,0,0,0,0,0},
 			{0,0,0,0,0,0,0,0,0,0}
 		};
-	
 	public boolean accepter(Piece p){
 		boolean accepte = false;
 		{
-			
+			if tab[i
 		}
 		return accepte;
 	}
